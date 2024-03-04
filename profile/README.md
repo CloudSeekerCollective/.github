@@ -6,6 +6,5 @@ Chatrooms is one of our biggest projects we have released so far - it is an open
 We have some games cooking right now, none of which are released yet though:
 
 - Shots for Shots, a physics-based first person shooter where only skill matters - only one Pyramoid out of 75 may be victorious, or you can play 1v1 Duels to see who is the best out of 2 players.
-- Fightopia, for which not much details are available yet - but we will reveal more soon!
-- And 1 more unannounced game we are working on right now!
+- 1 more unannounced game we are working on right now!
 
