@@ -1,5 +1,5 @@
 # We are The CloudSeeker Collective
-The CloudSeeker Collective is a team of people who create apps for general everyday use and implement interesting video game ideas.\
+The CloudSeeker Collective is a team of people who create apps for general everyday use and implement interesting video game ideas.
 ## FGAnalyst
 An in-depth look into Fall Guys. FGAnalyst is the home for any Fall Guys information you may be looking for! Only on FGAnalyst:
 - [Fully featured Creative level search engine](https://cloudseeker.xyz/fga/creative/?search=1)
